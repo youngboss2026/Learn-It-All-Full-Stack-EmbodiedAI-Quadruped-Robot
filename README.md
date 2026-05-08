@@ -80,11 +80,11 @@ This project is organized as multiple repositories. Each repository focuses on o
 
 | Repository | Description | Status |
 |---|---|---|
-| [Learn-It-All-Full-Stack-EmbodiedAI-Quadruped-Robot](https://github.com/12311112/Learn-It-All-Full-Stack-EmbodiedAI-Quadruped-Robot) | Main project page and full-stack overview | In progress |
-| [Learn-It-All-Mechanical-Design](https://github.com/12311112/Learn-It-All-Mechanical-Design) | SolidWorks mechanical design, URDF export, model checking, and bill of materials | In progress |
-| [Learn-It-All-rl-isaaclab](https://github.com/12311112/Learn-It-All-rl-isaaclab) | Isaac Lab simulation environment, USD conversion, MDP design, and RL training | In progress |
-| [Learn-It-All-rl-mujoco](https://github.com/12311112/Learn-It-All-rl-mujoco) | MuJoCo model conversion, locomotion training, sim-to-sim validation, and ONNX export | In progress |
-| [Learn-It-All-deployment-sim2real](https://github.com/12311112/Learn-It-All-deployment-sim2real) | Real-world deployment, policy inference, hardware interface, and IK controller validation | In progress |
+| [Learn-It-All-Full-Stack-EmbodiedAI-Quadruped-Robot](https://github.com/youngboss2026/Learn-It-All-Full-Stack-EmbodiedAI-Quadruped-Robot) | Main project page and full-stack overview | In progress |
+| [Learn-It-All-Mechanical-Design](https://github.com/youngboss2026/Learn-It-All-Mechanical-Design) | SolidWorks mechanical design, URDF export, model checking, and bill of materials | In progress |
+| [Learn-It-All-rl-isaaclab](https://github.com/youngboss2026/Learn-It-All-rl-isaaclab) | Isaac Lab simulation environment, USD conversion, MDP design, and RL training | In progress |
+| [Learn-It-All-rl-mujoco](https://github.com/youngboss2026/Learn-It-All-rl-mujoco) | MuJoCo model conversion, locomotion training, sim-to-sim validation, and ONNX export | In progress |
+| [Learn-It-All-deployment-sim2real](https://github.com/youngboss2026/Learn-It-All-deployment-sim2real) | Real-world deployment, policy inference, hardware interface, and IK controller validation | In progress |
 
 ---
 
@@ -184,6 +184,16 @@ rednote：5305501614
 Email: 1790815185@qq.com，htq24@mails.tsinghua.edu.cn
 
 ---
+
+Welcome everyone to join our discussion group! 🎉  
+Feel free to share ideas, communicate and discuss related topics here.  
+We look forward to your active participation and wonderful exchanges!
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/4d1bfc52-36a5-4d7a-8d6b-ce5a33c3aba0" width="500">
+</div>
+
+
 
 
 

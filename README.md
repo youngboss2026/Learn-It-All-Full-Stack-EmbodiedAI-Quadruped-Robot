@@ -189,10 +189,6 @@ Welcome everyone to join our discussion group! 🎉
 Feel free to share ideas, communicate and discuss related topics here.  
 We look forward to your active participation and wonderful exchanges!
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/4d1bfc52-36a5-4d7a-8d6b-ce5a33c3aba0" width="500">
-</div>
-
 
 
 
